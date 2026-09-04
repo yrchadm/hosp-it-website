@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-04T02:47:35.360Z",
+    "topicId": 8,
+    "slug": "hermetic-door-rs-spesifikasi-untuk-ot-icu-linac",
+    "title": "Hermetic Door untuk RS: Spesifikasi Kedap Udara untuk OT, ICU & Ruang Linac",
+    "readingTime": 4,
+    "dryRun": false,
+    "aiUsed": false,
+    "commitSha": "d4b993e2cedc9a1083dca1427c862e36758dd988"
+  },
+  {
     "timestamp": "2026-09-01T03:19:13.100Z",
     "topicId": 7,
     "slug": "8-fhir-resources-wajib-satusehat-encounter-hingga-allergy",
