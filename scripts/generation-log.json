@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-07T02:38:00.301Z",
+    "topicId": 9,
+    "slug": "filmless-radiologi-hemat-60-persen-dengan-pacs-hosp-it",
+    "title": "Filmless Radiologi: Hitung Hemat 60% Biaya Film dengan PACS Hosp-IT",
+    "readingTime": 4,
+    "dryRun": false,
+    "aiUsed": false,
+    "commitSha": "3d6c4b76794dd9bccdf757f07db6233bec2697f2"
+  },
+  {
     "timestamp": "2026-09-04T02:47:35.360Z",
     "topicId": 8,
     "slug": "hermetic-door-rs-spesifikasi-untuk-ot-icu-linac",
