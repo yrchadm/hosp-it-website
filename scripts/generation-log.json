@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-10T02:51:15.941Z",
+    "topicId": 10,
+    "slug": "simrs-cloud-vs-on-premise-mana-lebih-aman-untuk-rs",
+    "title": "SIMRS Cloud vs On-Premise: Mana Lebih Aman untuk Data Pasien RS?",
+    "readingTime": 4,
+    "dryRun": false,
+    "aiUsed": false,
+    "commitSha": "f1130cb455877fd2a1378f5e599163e9a45e5724"
+  },
+  {
     "timestamp": "2026-09-07T02:38:00.301Z",
     "topicId": 9,
     "slug": "filmless-radiologi-hemat-60-persen-dengan-pacs-hosp-it",
