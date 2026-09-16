@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-16T03:05:51.196Z",
+    "topicId": 12,
+    "slug": "cara-implementasi-simrs-90-hari-tanpa-ganggu-operasional",
+    "title": "Cara Implementasi SIMRS 90 Hari Tanpa Ganggu Operasional RS — Timeline Hosp-IT",
+    "readingTime": 4,
+    "dryRun": false,
+    "aiUsed": false,
+    "commitSha": "87ea77cf7905f177de839a63fdd81f1af763ce66"
+  },
+  {
     "timestamp": "2026-09-13T02:53:08.356Z",
     "topicId": 11,
     "slug": "medical-gas-system-instalasi-o2-n2o-vacuum-alarm-rs",
