@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-01T03:51:57.914Z",
+    "topicId": 17,
+    "slug": "vinyl-gerflor-insulated-panel-pir-syarat-ruang-bersih-rs",
+    "title": "Vinyl Gerflor & Insulated Panel PIR: Syarat Lantai-Dinding Ruang Bersih RS Sesuai Standar",
+    "readingTime": 4,
+    "dryRun": false,
+    "aiUsed": false,
+    "commitSha": "511131c8fab131b9bf01f4be50f3eb73d700b723"
+  },
+  {
     "timestamp": "2026-09-28T03:20:45.684Z",
     "topicId": 16,
     "slug": "ctr-cardiothoracic-ratio-otomatis-di-pacs-hosp-it",
